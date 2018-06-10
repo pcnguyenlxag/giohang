@@ -1,0 +1,4 @@
+AuthUserFile ../www/qlbh/bills/.htpasswd
+AuthName "Vui long nhap username va mat khau!"
+AuthType Basic
+Require valid-user

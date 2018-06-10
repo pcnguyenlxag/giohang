@@ -1,0 +1,30 @@
+body {
+	font-family: arial;
+	font-size: 11pt;
+}
+
+.SanPham {
+	float: left;
+	border: 1px solid #0000ff;
+	width: 180px;
+	height: 250px;
+	margin: 0px 6px 6px 0px;
+}
+
+.HinhAnh {
+	text-align: center;
+	margin: 2px;
+	padding: 2px;
+}
+
+.TenSanPham {
+	margin: 2px;
+	padding: 2px;
+	height: 65px;
+}
+
+.GiaBan {
+	font-weight: bold;
+	margin: 2px;
+	padding: 2px;
+}
